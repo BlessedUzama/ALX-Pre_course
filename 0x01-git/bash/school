@@ -1,2 +1,6 @@
 #!/bin/bash
-the school is open!
+<<<<<<< HEAD
+school is open
+=======
+school is open
+>>>>>>> update_script
